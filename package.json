@@ -1,0 +1,15 @@
+{
+  "name": "hariom",
+  "version": "1.0.0",
+  "description": "this is the package we created while studing & exploring. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hari Hatela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
